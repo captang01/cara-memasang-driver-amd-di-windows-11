@@ -1,0 +1,1 @@
+# cara-memasang-driver-amd-di-windows-11
