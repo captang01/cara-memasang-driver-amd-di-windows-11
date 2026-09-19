@@ -48,3 +48,15 @@ oke caranya:
    -Browse my computer for drivers
    
    -kemudian sebelum memilih Let me pick froma a list of available driver on my computer pastikan include subfolders sudah di centang
+
+3. setelah itu pilih Have Disk dan sesuaikan dengan file driver yang kita download untuk mencari file dengan format (.inf)
+   <img width="1706" height="761" alt="image" src="https://github.com/user-attachments/assets/d6144234-281b-478c-b0d2-3312944e1650" />
+   kira-kira seperti ini. setelah itu klik open file lalu akan muncul banyak pilihan driver dan pilih yang sesuai dengan laptop teman-teman.
+   kalo di sini saya menggunakan "AMD Radeon(TM) RX Vega 8 Processor Graphics".
+   
+4. setelah itu klik next dan pilih yes, maka akan otomatis terinstall
+   <img width="607" height="467" alt="image" src="https://github.com/user-attachments/assets/34e5982b-67b2-42b8-86cf-5c42b9b58627" />
+
+5. dan selamat Driver kalian sudah terpasang.
+
+
