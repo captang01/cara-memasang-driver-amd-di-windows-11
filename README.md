@@ -25,7 +25,7 @@ oke caranya:
 3. oke setelah itu teman teman klik kanan pada bagian properties di "Microsoft Basic Display Adaper"
 
 4. masuk ke bagian Details, di bagian property di ubah ke Hardware ids dan salin kode yang bagian atas karena itu driver yang akan kita download.
-<img width="507" height="567" alt="image" src="https://github.com/user-attachments/assets/56225b7f-4d0e-4239-a95f-d58e918953af" />
+   <img width="507" height="567" alt="image" src="https://github.com/user-attachments/assets/56225b7f-4d0e-4239-a95f-d58e918953af" />
 
 5. setelah di salin kita masuk ke situs DriverPack ini link nya: https://driverpack.io/
    setelah masuk ke situs pilih search driver dan masukkan kode nya.
