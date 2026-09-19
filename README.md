@@ -1,6 +1,6 @@
 # cara-memasang-driver-amd-di-windows 11
 
-#! Disclaimer !
+# ! Disclaimer !
 
 ini hanya berdasarkan pengalaman pribadi saya ketika ingin menginstall ulang windows 11 jadi jika teman teman punya cara sendiri silahkan tapi ini hanya untuk sekedar membantu teman teman yang ingin memulihkan drivernya dan tujuan dari pemasangan driver ini di lakukan karena saya tidak bisa mengatur kecerahan, lalu itu juga mempengaruhi pada kecepatan saat coding atau sekedar untuk bermain game.
 
