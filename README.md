@@ -60,4 +60,8 @@ oke caranya:
 
 5. dan selamat Driver kalian sudah terpasang.
 
+# Penutup
+
+mungkin tutorial di atas mungkin terlihat sepele namun menurut saya ini cukup berpengaruh karena mempengaruhi kerja saya saat ngoding ataupun saat bermain game karena saya mempengaruhi responsive terhadap deploy website dan juga mengganggu penglihatan saya karena cahaya laptop yang begitu cerah. jadi mungkin itu saja semoga bermanfaat.
+
 
