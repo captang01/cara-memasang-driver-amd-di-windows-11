@@ -12,3 +12,31 @@ contohnya temen temen bisa masuk ke dxdiag caranya
 2. setelah itu klik oke dan temen temen bisa masuk dan liat di bagian proccesor, kenapa saya melihatnya di bagian proccesor karena amd proccesor dan driver itu sama jadi tidak ada bedanya.
 <img width="726" height="534" alt="image" src="https://github.com/user-attachments/assets/38486795-ea87-4874-acc5-ba9b99b755ec" />
 
+# Cara mendownload Driver
+nah setelah temen temen melihat Proccesor nya sekarang teman-teman harus mendownloadnya menggunakan DriverPack agar bisa mendapatkan drivernya.
+tapi sebelum kita tau driver kita teman teman harus melihat kode driver di display adapter di laptop teman-teman.
+oke caranya:
+
+1. teman teman masuk ke bagian Device Manager
+2. setelah masuk teman-teman bukan Display Adapter ,nah di bagian display saya disitu tertulis "Microsoft Basic Display Adaper" yang dimana itu bukan driver saya melainkan driver default dari windows oleh itu kita harus mengantinya.
+<img width="327" height="60" alt="image" src="https://github.com/user-attachments/assets/c2ec98f6-7157-4f97-a079-2fc840ce1347" />
+3.oke setelah itu teman teman klik kanan pada bagian properties di "Microsoft Basic Display Adaper"
+4. masuk ke bagian Details, di bagian property di ubah ke Hardware ids dan salin kode yang bagian atas karena itu driver yang akan kita download.
+<img width="507" height="567" alt="image" src="https://github.com/user-attachments/assets/56225b7f-4d0e-4239-a95f-d58e918953af" />
+5. setelah di salin kita masuk ke situs DriverPack ini link nya: https://driverpack.io/
+   setelah masuk ke situs pilih search driver dan masukkan kode nya.
+   <img width="1911" height="862" alt="image" src="https://github.com/user-attachments/assets/11ae46b7-1bac-453c-b564-70ec17781bf9" />
+6. setelah itu klik Find
+7. lalu setelah masuk scroll ke bagian bawah dan download link yang ini
+   <img width="1447" height="533" alt="image" src="https://github.com/user-attachments/assets/d41f5ece-e357-497b-9d55-66598e1ffad6" />
+
+
+
+
+
+
+
+1. setelah itu klik kanan pada "Microsoft Basic Display Adaper" dan pilih update driver.
+2. setelah masuk klik pilihan yang paling bawah: 
+   -Browse my computer for drivers
+   -kemudian sebelum memilih Let me pick froma a list of available driver on my computer pastikan include subfolders sudah di centang
