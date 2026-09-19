@@ -1,4 +1,4 @@
-# cara-memasang-driver-amd-di-windows 11
+# Cara memasang Driver AMD di Windows 11
 
 # ! Disclaimer !
 
