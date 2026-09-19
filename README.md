@@ -36,12 +36,12 @@ oke caranya:
 7. lalu setelah masuk scroll ke bagian bawah dan download link yang ini
    <img width="1447" height="533" alt="image" src="https://github.com/user-attachments/assets/d41f5ece-e357-497b-9d55-66598e1ffad6" />
 
+8. setelah di download kita bisa extract ke folder partisi yang kita gunakan.
+   <img width="686" height="402" alt="image" src="https://github.com/user-attachments/assets/5d5bb6d0-77d8-43f0-936c-a0aa0e6aa91a" />
 
+9. selamat penginstalan Driver sudah selesai sekarang kita lanjut ke pemasangan driver di display adapter
 
-
-
-
-
+# Pemasangan Driver
 1. setelah itu klik kanan pada "Microsoft Basic Display Adaper" dan pilih update driver.
 2. setelah masuk klik pilihan yang paling bawah: 
    -Browse my computer for drivers
