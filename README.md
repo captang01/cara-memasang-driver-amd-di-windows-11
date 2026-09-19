@@ -44,5 +44,7 @@ oke caranya:
 # Pemasangan Driver
 1. setelah itu klik kanan pada "Microsoft Basic Display Adaper" dan pilih update driver.
 2. setelah masuk klik pilihan yang paling bawah: 
+   
    -Browse my computer for drivers
+   
    -kemudian sebelum memilih Let me pick froma a list of available driver on my computer pastikan include subfolders sudah di centang
