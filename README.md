@@ -7,10 +7,10 @@ ini hanya berdasarkan pengalaman pribadi saya ketika ingin menginstall ulang win
 teman teman bisa mempraktikkan ini tidak harus berpatokan dengan amd tapi juga bisa menggunakan driver lain seperti Intel atau pun Nvidia
 contohnya temen temen bisa masuk ke dxdiag caranya
 1. pencet windows+r, setelah itu ketik dxdiag.
-<img width="400" height="200" alt="image" src="https://github.com/user-attachments/assets/c47faf87-6ca4-4a3e-a4ca-43f7e4bcb4b3" />
+   <img width="400" height="200" alt="image" src="https://github.com/user-attachments/assets/c47faf87-6ca4-4a3e-a4ca-43f7e4bcb4b3" />
 
-2. setelah itu klik oke dan temen temen bisa masuk dan liat di bagian proccesor, kenapa saya melihatnya di bagian proccesor karena amd proccesor dan driver itu sama jadi tidak ada bedanya.
-<img width="726" height="534" alt="image" src="https://github.com/user-attachments/assets/38486795-ea87-4874-acc5-ba9b99b755ec" />
+2. setelah itu klik oke dan temen temen bisa masuk dan liat di bagian proccesor, kenapa saya melihatnya di bagian proccesor karena amd proccesor dan driver itu       sama jadi tidak ada bedanya.
+   <img width="726" height="534" alt="image" src="https://github.com/user-attachments/assets/38486795-ea87-4874-acc5-ba9b99b755ec" />
 
 # Cara mendownload Driver
 nah setelah temen temen melihat Proccesor nya sekarang teman-teman harus mendownloadnya menggunakan DriverPack agar bisa mendapatkan drivernya.
@@ -18,15 +18,21 @@ tapi sebelum kita tau driver kita teman teman harus melihat kode driver di displ
 oke caranya:
 
 1. teman teman masuk ke bagian Device Manager
-2. setelah masuk teman-teman bukan Display Adapter ,nah di bagian display saya disitu tertulis "Microsoft Basic Display Adaper" yang dimana itu bukan driver saya melainkan driver default dari windows oleh itu kita harus mengantinya.
-<img width="327" height="60" alt="image" src="https://github.com/user-attachments/assets/c2ec98f6-7157-4f97-a079-2fc840ce1347" />
+
+2. setelah masuk teman-teman bukan Display Adapter ,nah di bagian display saya disitu tertulis "Microsoft Basic Display Adaper" yang dimana itu bukan driver saya     melainkan driver default dari windows oleh itu kita harus mengantinya.
+   <img width="327" height="60" alt="image" src="https://github.com/user-attachments/assets/c2ec98f6-7157-4f97-a079-2fc840ce1347" />
+
 3.oke setelah itu teman teman klik kanan pada bagian properties di "Microsoft Basic Display Adaper"
+
 4. masuk ke bagian Details, di bagian property di ubah ke Hardware ids dan salin kode yang bagian atas karena itu driver yang akan kita download.
-<img width="507" height="567" alt="image" src="https://github.com/user-attachments/assets/56225b7f-4d0e-4239-a95f-d58e918953af" />
+   <img width="507" height="567" alt="image" src="https://github.com/user-attachments/assets/56225b7f-4d0e-4239-a95f-d58e918953af" />
+
 5. setelah di salin kita masuk ke situs DriverPack ini link nya: https://driverpack.io/
    setelah masuk ke situs pilih search driver dan masukkan kode nya.
    <img width="1911" height="862" alt="image" src="https://github.com/user-attachments/assets/11ae46b7-1bac-453c-b564-70ec17781bf9" />
+
 6. setelah itu klik Find
+
 7. lalu setelah masuk scroll ke bagian bawah dan download link yang ini
    <img width="1447" height="533" alt="image" src="https://github.com/user-attachments/assets/d41f5ece-e357-497b-9d55-66598e1ffad6" />
 
